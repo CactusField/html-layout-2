@@ -25,10 +25,15 @@
     display:flex;
     width:100%;
 }
+.rocket2{
+    margin:0;
+    display:flex;
+    width:100%;
+}
 .headlist{
     display:inline-flex;
     color: rgb(240, 240, 240); 
     align-items: center;
-    padding:20px;
+    padding:40px;
 
 }
