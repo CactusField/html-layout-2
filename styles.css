@@ -27,7 +27,7 @@
 }
 .headlist{
     display:inline-flex;
-    color: white; 
+    color: rgb(240, 240, 240); 
     align-items: center;
     padding:20px;
 
