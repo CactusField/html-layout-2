@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    display:flex;
+    justify-content: space-between;
+}
+.header{
+    display:flex;
+    position: fixed;
+    flex-flow:row;
+
+
+}
+.spcxlogo{
+    display: inline-flex;
+    align-items: center;
+    width:300px;
+    height:75px;
+    
+}
+.rocket1{
+    margin:0;
+    display:flex;
+    width:100%;
+}
+.headlist{
+    display:inline-flex;
+    color: white; 
+    align-items: center;
+    padding:20px;
+
+}
